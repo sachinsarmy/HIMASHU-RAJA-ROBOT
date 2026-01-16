@@ -60,7 +60,7 @@ async def approve_and_send(update: Update, context: ContextTypes.DEFAULT_TYPE):
 ♻सहायता के लिए @himanshu_972
 
 🔴हैक का उपयोग कैसे करें
-https://t.me/rajaindiaprediction/54
+https://t.me/+vBKqhKW2V6BhMGU1
 """
             )
 
@@ -88,3 +88,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
